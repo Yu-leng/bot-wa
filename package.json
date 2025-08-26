@@ -1,0 +1,25 @@
+{
+  "name": "wa-bot-multi-fitur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
+    "fluent-ffmpeg": "^2.1.3",
+    "google-tts-api": "^2.0.2",
+    "mime-types": "^3.0.1",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.32.6",
+    "uuid": "^11.1.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
