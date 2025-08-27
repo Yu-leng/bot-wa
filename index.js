@@ -1,19 +1,5 @@
 /**
- * WhatsApp Bot Multi‑Fitur (Baileys)
- * Platform: Node.js (Windows/PowerShell, Kali Linux, VSCode)
- * 
- * ---- Persiapan ----
- * 1) Node.js ≥ 16 (cek: node -v)
- * 2) NPM packages (install di folder project):
- *    npm init -y
- *    npm install @whiskeysockets/baileys qrcode-terminal axios sharp fluent-ffmpeg ytdl-core google-tts-api mime-types qrcode dotenv
- * 3) FFmpeg (untuk audio/video):
- *    - Windows (PowerShell): winget install Gyan.FFmpeg
- *    - Kali/Ubuntu: sudo apt update && sudo apt install -y ffmpeg
- * 4) Buat file .env (opsional):
- *    OPENAI_API_KEY=sk-......   # bila ingin fitur !ai
- *    OPENWEATHER_KEY=xxxxxxxx   # bila ingin fitur !weather (opsional, endpoint disiapkan)
- *    OWNER_NUMBER=62xxxxxxxxxxx  # nomor owner untuk fitur !owner
+ * WhatsApp Bot Multi‑Fitur Made By PakYuddd
  * 
  * Jalankan: node index.js
  */
